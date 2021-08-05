@@ -1,0 +1,9 @@
+model_class: T5VAE
+base_model_name: t5-small
+checkpoint_path: null
+latent_dim: 32
+pooling_strategy: mean
+out_dim: 256
+min_z: null
+denoise_percentage: 0
+freeze_decoder: false
