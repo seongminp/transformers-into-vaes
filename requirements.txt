@@ -1,0 +1,8 @@
+torch
+torchvision
+tqdm
+matplotlib
+transformers
+pytorch-lightning
+pretty-errors
+omegaconf
