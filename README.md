@@ -1,6 +1,6 @@
 # transformers-into-vaes
 
-Code for [**_Finetuning Pretrained Transformers into Variational Autoencoders_**](https://aclanthology.org/2021.insights-1.5/) (our submission to NLP Insights Workshop 2021).
+Code for [**_Finetuning Pretrained Transformers into Variational Autoencoders_**](https://aclanthology.org/2021.insights-1.5/), presented at [Insights Workshop @ EMNLP 2021](https://insights-workshop.github.io/2021/).
 
 ## Gathering data used in the paper:
 1. Download all data (penn, snli, yahoo, yelp) from [this](https://github.com/ChunyuanLI/Optimus/blob/master/data/download_datasets.md) repository.
